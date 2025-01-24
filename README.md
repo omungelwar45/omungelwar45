@@ -1,5 +1,5 @@
-# Hi there! 👋  
-I'm **Omungelwar**, passionate about coding, development, and exploring new technologies.
+# Hi there👋 om mungelwar
+Btech student || passionate about coding, development, and exploring new technologies.
 
 ---
 
