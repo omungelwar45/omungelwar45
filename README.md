@@ -41,6 +41,6 @@
 
 ## 🔗 Connect with Me:
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark)](https://github-readme-activity-graph.vercel.app/graph?username=omungelwar45&theme=github-dark
-)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=omungelwar45&theme=github-dark)
+
 
