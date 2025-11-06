@@ -39,8 +39,12 @@
 
 ---
 
+### 🏆 Contribution Stats (Radar Chart)
 ![Contribution Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=omungelwar45&theme=github_dark)
 
+### ⏱ Productive Time
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=omungelwar45&theme=github_dark)
 
-
+### 📊 Contribution Summary
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omungelwar45&theme=github_dark)
 
